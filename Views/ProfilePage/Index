@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WatchLists</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .profile-pic {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: #ccc;
+            display: inline-block;
+            margin-right: 20px;
+        }
+        .username {
+            display: inline-block;
+            vertical-align: middle;
+            font-size: 24px;
+            color: #333;
+        }
+        .follow-btn {
+            display: inline-block;
+            vertical-align: middle;
+            background-color: #00ff00;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            font-size: 18px;
+            color: #fff;
+            cursor: pointer;
+            margin-left: 20px;
+        }
+        .watchlists {
+            margin-top: 50px;
+        }
+        .watchlist {
+            margin-bottom: 30px;
+        }
+        .watchlist h3 {
+            font-size: 20px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .watchlist ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .watchlist li {
+            font-size: 16px;
+            color: #777;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="profile-pic"></div>
+        <div class="username">John Doe</div>
+        <button class="follow-btn">Follow</button>
+
+        <div class="watchlists">
+            <div class="watchlist">
+                <h3>Sci-fi</h3>
+                <ul>
+                    <li>Interstellar</li>
+                    <li>Dune</li>
+                </ul>
+            </div>
+            <div class="watchlist">
+                <h3>Drama</h3>
+                <ul>
+                    <li>The Marsh</li>
+                    <li>King's Daughter</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html><div class="watchlist">
+                <h3>Films</h3>
+                <ul>
+                    <li>Interstellar</li>
+                    <li>Dune</li>
+                </ul> 
+            </div>
+         <div class="watchlist">
+            <h3>Reviews</h3>
+            <ul>
+                <li>Review 1</li>
+                <li>Review 2</li>
+            </ul> 
+        </div>
+        <div class="watchlist">
+            <h3>Lists</h3>
+            <ul>
+                <li>List 1</li>
+                <li>List 2</li>
+            </ul>
+       </div> 
+       <div class="watchlist">
+            <h3>Comments</h3>
+            <ul> 
+                <li>Comment 1</li>
+                <li>Comment 2</li>
+            </ul>
+      </div>
+      <div class="watchlist">
+            <h3>Following</h3>
+            <ul> 
+                <li>Following 1</li>
+                <li>Following 2</li>
+           </ul>
+      </div>
+      <div class="watchlist">
+            <h3>Followers</h3>
+            <ul>
+                <li>Follower 1</li>
+                <li>Follower 2</li>
+          </ul>
+       </div>
+    </div>
+  </div> 
+</div> 
+</div>
+</body>
+</html>
